@@ -1,6 +1,6 @@
 import React from 'react'
 
-function reportWebVitals() {
+function Loader() {
   return (
     <div>
       
@@ -8,4 +8,4 @@ function reportWebVitals() {
   )
 }
 
-export default reportWebVitals
+export default Loader
